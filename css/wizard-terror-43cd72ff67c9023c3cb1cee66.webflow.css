@@ -566,6 +566,7 @@ body {
 }
 
 .slide {
+  width: 100%;
   background-image: linear-gradient(#593202, #000);
   padding: 60px;
   overflow: scroll;
@@ -576,6 +577,7 @@ body {
 }
 
 .slide.slide1 {
+
   background-image: linear-gradient(#034959, #000);
   padding-top: 60px;
   padding-bottom: 0;
